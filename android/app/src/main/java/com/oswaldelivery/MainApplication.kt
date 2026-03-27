@@ -1,4 +1,4 @@
-package com.oswaldelivery
+package com.fineoutput.oswaldeliveryboy
 
 import android.app.Application
 import com.facebook.react.PackageList

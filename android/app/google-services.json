@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667415240131",
+    "project_id": "oswaldeliveryboy-ce1f4",
+    "storage_bucket": "oswaldeliveryboy-ce1f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667415240131:android:cf56fc59d24527bf2f7176",
+        "android_client_info": {
+          "package_name": "com.fineoutput.oswaldeliveryboy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZbYFvuz_ev6L3CDNU0t1qEg5I3nDqcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

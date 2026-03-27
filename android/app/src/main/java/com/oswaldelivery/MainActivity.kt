@@ -1,4 +1,4 @@
-package com.oswaldelivery
+package com.fineoutput.oswaldeliveryboy
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
